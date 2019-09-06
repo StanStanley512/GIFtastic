@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.container-fluid {
+    background-color: rgb(0, 183, 255);
+}
+
+#add-gif {
+    font-family: Acme;
+}
+
+#gif-button {
+    font-family: Acme;
+    padding: 5px;
+}
+#title {
+    padding: 25px;
+    font-family: Acme;
+}
+
+#gif-form {
+    font-family: Acme;
+}
+
+.footer {
+    margin-top: 500px;
+}
